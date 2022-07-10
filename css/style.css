@@ -507,33 +507,9 @@ contact   section start
 .contact-me{
     background: #6C62FF;
 }
-.contact-main{
-    display: flex;
-}
-.contact-left-side1 h2{
-    font-size: 40px;
-    color:#fff;
-}
-.contact-left-side1 p{
-    padding-bottom: 10px;
-    font-size: 25px;
-    color:#fff;
 
-}
-.contact-left-side2 ul li {
-    list-style: none;
-    padding: 13px 0;
-}
-.contact-left-side2 ul li a{
-    color: #fff;
-}
-.form-details{
-    background: white;
-    text-align: left;
-    width: 100%;
-}
 /*
 -------------------
-contact   section start
+contact   section end
 -------------------
 */
