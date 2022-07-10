@@ -450,9 +450,6 @@ about me  section start
     display: flex;
     padding-top: 20px;
 }
-.about-me-right-details{
-
-}
 .about-me-right-image img {
     border: 2px solid #9F7AEA;
     border-radius: 50%;
